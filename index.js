@@ -17,7 +17,7 @@ mongoose.connect('mongodb://0.0.0.0:27017/shopApp')
 // -----------------------------------------------3
 // seeding the data in DB 
 const seedDB = require('./seed')
-//seedDB()   // here we are commenting it so that data do not get in DB again and again when we restart the server :)
+//seedDB()   // here we are commenting it so that data do not get in DB again and again when the page get refresh :)
 
 // -----------------------------------------------4
 
