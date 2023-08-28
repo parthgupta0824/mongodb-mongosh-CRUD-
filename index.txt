@@ -2,5 +2,4 @@
 0 -> we do not export anything from out main index.js file 
 1 -> we will make an application which have some products 
 2 -> each product have name , price , description 
-3 -> we will make public(for static files), views(for template), models(for all the models in database) and routes(all the route use express)folder
-4 -> we keep are models of DB in models folder - we have diff collection in are app like products , user , review , orders and for each model we have diff schema 
+3 -> we will make public(for static files), views(for template), models(for all the models in database) and routes(all the route use express)folder 
